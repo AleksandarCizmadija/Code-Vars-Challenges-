@@ -10,7 +10,6 @@ Examples: spinWords( "Hey fellow warriors" ) => returns "Hey wollef sroirraw" sp
 ```javascript
     function spinWords(word) {
         return word.split(' ').map(word => {
-
         if (word.length >= 5) {
             return word.split('').reverse().join('')
         }
