@@ -1,4 +1,4 @@
-# Code Vars Challenges
+# Code Wars Challenges
 
 ### 1. Stop gninnipS My sdroW! **6 kyu**
 
